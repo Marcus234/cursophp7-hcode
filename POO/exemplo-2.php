@@ -30,7 +30,7 @@ class Carro {
 
     }
 
-    public function getAno():init {
+    public function getAno(){
 
         return $this->ano;
 
