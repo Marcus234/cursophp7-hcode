@@ -2,11 +2,11 @@
 
 class DelRey extends Automovel {
 
-    public function empurrar(){
+	public function empurrar(){
 
 
 
-    }
+	}
 
 }
 
